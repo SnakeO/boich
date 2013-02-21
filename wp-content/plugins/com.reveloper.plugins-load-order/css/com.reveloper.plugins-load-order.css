@@ -1,0 +1,5 @@
+#com-reveloper-plugins-load-order { background: url("../img/glitter32.png") no-repeat scroll top left transparent; }
+#pluginsList { padding: 0; }
+#pluginsList li { margin-right: 40px; border-bottom: 1px solid #888; border-right: 1px solid #888; width: 250px; padding: 8px; border-top: 1px solid #ddd; border-left: 1px solid #ddd; cursor: pointer; background-color: #ddd; text-shadow: 0px 1px 0px #e5e5ee; filter: dropshadow(color=#e5e5ee,offX=0,offY=1); color: #555; float: left; }
+#frmSortPlugins { clear: both; float: left; margin-top: 20px; }
+#contactReveloper { clear: both; float: left; padding: 10px 0 10px 105px; background: url("../img/reveloper.png") center left no-repeat transparent; margin-top: 20px; width: 200px; }
