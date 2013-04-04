@@ -1,0 +1,6 @@
+.nav > ul > li.hover > a,
+.nav > ul > li > a:hover{filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#b3ffffff',GradientType=0 ); /* IE6-8 */}
+.nav .drop{filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eaebec', endColorstr='#00ffffff',GradientType=0 ); /* IE6-8 */}
+.nav .drop a:hover{filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#b3c5b790',GradientType=0 ); /* IE6-8 */}
+.add-nav a:hover{filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#52000000', endColorstr='#00c5b790',GradientType=0 ); /* IE6-8 */}
+.login-form{filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b354534b', endColorstr='#00c5b790',GradientType=0 ); /* IE6-8 */}

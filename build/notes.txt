@@ -1,0 +1,12 @@
+I added in a scrollbar in some sections. You can see how it will work with text that is too large to fit.
+
+Any pages that I did not have images for, I used a picture of grapes with a question mark on it. Note: the image size is 666x564
+
+Check out the "terms & conditions" page @ http://boich.otleylogic.com/build/terms-and-conditions.php 
+At the top thre is the title that says "Terms and Conditions", but the contrast of the text color with the background makes it hard to read.
+
+Can you provide your facebook / twitter links? 
+
+Can you provide me with a few more backgrounds to use, and I will show backgrounds switching between pages.
+
+The site will show nicely on iPad, iPhone, and android phones. Please test on them if you have them.
